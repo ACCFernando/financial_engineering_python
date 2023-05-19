@@ -1,0 +1,175 @@
+ABEV3.SA: Ambev S.A.
+ALPA4.SA: Alpargatas S.A.
+ALSO3.SA: Aliance Sonae Shopping Centers S.A. Equity
+ARZZ3.SA: Arezzo Industria e Comercio S.A.
+ASAI3.SA: Sendas Distribuidora S.A.
+AZUL4.SA: Azul S.A.
+B3SA3.SA: B3 S.A. - Brasil, Bolsa, Balcao 
+BBAS3.SA: Banco do Brasil S.A.
+BBDC3.SA: Banco Bradesco S.A.
+BBDC4.SA: Banco Bradesco S.A.
+BBSE3.SA: BB Seguridade Participacoes S.A.
+BEEF3.SA: Minerva S.A.
+BPAC11.SA: Banco BTG Pactual S.A.
+BRAP4.SA: Bradespar S.A.
+BRFS3.SA: BRF S.A.
+BRKM5.SA: Braskem S.A.
+CASH3.SA: Meliuz S.A.
+CCRO3.SA: CCR S.A.
+CIEL3.SA: Cielo S.A.
+CMIG4.SA: Companhia Energetica de Minas Gerais
+CMIN3.SA: CSN Mineracao S.A.
+COGN3.SA: Cogna Educacao S.A.
+CPFE3.SA: CPFL Energia S.A.
+CPLE6.SA: Companhia Paranaense de Energia - COPEL
+CRFB3.SA: Atacadao S.A.
+CSAN3.SA: Cosan S.A.
+CVCB3.SA: CVC Brasil Operadora e Agencia de Viagens S.A.
+CYRE3.SA: Cyrela Brazil Realty S.A. Empreendimentos e Participacoes
+DXCO3.SA: Dexco S.A.
+EGIE3.SA: Engie Brasil Energia S.A.
+ELET3.SA: Centrais Eletricas Brasileiras S.A. - Eletrobras
+ELET6.SA: Centrais Eletricas Brasileiras S.A. - Eletrobras
+EMBR3.SA: Embraer S.A.
+ENBR3.SA: EDP Energias do Brasil S.A. 
+ENEV3.SA: Eneva S.A.
+ENGI11.SA: Energisa S.A.
+EQTL3.SA: Equatorial Energia S.A.
+EZTC3.SA: EZTEC Empreendimentos e Participacoes S.A.
+FLRY3.SA: Fleury S.A.
+GGBR4.SA: Gerdau S.A.
+GOAU4.SA: Metalurgia Gerdau S.A.
+GOLL4.SA: Gol Linhas Aereas Inteligentes S.A.
+HAPV3.SA: Hapvida Participacoes e Investimentos S.A.
+HYPE3.SA: Hypera S.A.
+IGTI11.SA: Iguatemi S.A.
+IRBR3.SA: IRB-Brasil Resseguros S.A.
+ITSA4.SA: Itausa S.A.
+ITUB4.SA: Itau Unibanco Holding S.A.
+JBSS3.SA: JBS S.A.
+KLBN11.SA: Klabin S.A.
+LREN3.SA: Lojas Renner S.A.
+LWSA3.SA: Locaweb Serviços de Internet S.A.
+MGLU3.SA: Magazine Luiza S.A.
+MRFG3.SA: Marfrig Global Foods S.A.
+MRVE3.SA: MRV Engenharia e Participacoes S.A.
+MULT3.SA: Multiplan Empreendimentos Imobiliarios S.A.
+NTCO3.SA:
+PCAR3.SA:
+PETR3.SA:
+PETR4.SA:
+PETZ3.SA:
+PRIO3.SA:
+RADL3.SA:
+RAIL3.SA:
+RAIZ4.SA:
+RDOR3.SA:
+RENT3.SA:
+RRRP3.SA:
+SANB11.SA:
+SBSP3.SA:
+SLCE3.SA:
+SMTO3.SA:
+SOMA3.SA:
+SUZB3.SA:
+TAEE11.SA:
+TIMS3.SA:
+TOTS3.SA:
+UGPA3.SA:
+USIM5.SA:
+VALE3.SA:
+VBBR3.SA:
+VIIA3.SA:
+VIVT3.SA:
+WEGE3.SA:
+YDUQ3.SA:
+
+
+
+ticker_list:
+  - ABEV3.SA
+  - ALPA4.SA
+  - ALSO3.SA
+  - ARZZ3.SA
+  - ASAI3.SA
+  - AZUL4.SA
+  - B3SA3.SA
+  - BBAS3.SA
+  - BBDC3.SA
+  - BBDC4.SA
+  - BBSE3.SA
+  - BEEF3.SA
+  - BPAC11.SA
+  - BRAP4.SA
+  - BRFS3.SA
+  - BRKM5.SA
+  - CASH3.SA
+  - CCRO3.SA
+  - CIEL3.SA
+  - CMIG4.SA
+  - CMIN3.SA
+  - COGN3.SA
+  - CPFE3.SA
+  - CPLE6.SA
+  - CRFB3.SA
+  - CSAN3.SA
+  - CSNA3.SA
+  - CVCB3.SA
+  - CYRE3.SA
+  - DXCO3.SA
+  - EGIE3.SA
+  - ELET3.SA
+  - ELET6.SA
+  - EMBR3.SA
+  - ENBR3.SA
+  - ENEV3.SA
+  - ENGI11.SA
+  - EQTL3.SA
+  - EZTC3.SA
+  - FLRY3.SA
+  - GGBR4.SA
+  - GOAU4.SA
+  - GOLL4.SA
+  - HAPV3.SA
+  - HYPE3.SA
+  - IGTI11.SA
+  - IRBR3.SA
+  - ITSA4.SA
+  - ITUB4.SA
+  - JBSS3.SA
+  - KLBN11.SA
+  - LREN3.SA
+  - LWSA3.SA
+  - MGLU3.SA
+  - MRFG3.SA
+  - MRVE3.SA
+  - MULT3.SA
+  - NTCO3.SA
+  - PCAR3.SA
+  - PETR3.SA
+  - PETR4.SA
+  - PETZ3.SA
+  - PRIO3.SA
+  - RADL3.SA
+  - RAIL3.SA
+  - RAIZ4.SA
+  - RDOR3.SA
+  - RENT3.SA
+  - RRRP3.SA
+  - SANB11.SA
+  - SBSP3.SA
+  - SLCE3.SA
+  - SMTO3.SA
+  - SOMA3.SA
+  - SUZB3.SA
+  - TAEE11.SA
+  - TIMS3.SA
+  - TOTS3.SA
+  - UGPA3.SA
+  - USIM5.SA
+  - VALE3.SA
+  - VBBR3.SA
+  - VIIA3.SA
+  - VIVT3.SA
+  - WEGE3.SA
+  - YDUQ3.SA
